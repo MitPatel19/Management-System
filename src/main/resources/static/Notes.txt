@@ -1,0 +1,7 @@
+
+---------------Notes----------------
+
+1. how to get only fewer fields.
+2. how to get rolse->users detail with single query.
+3. how to show selected fields with that dto models.
+
